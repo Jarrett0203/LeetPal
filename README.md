@@ -86,6 +86,7 @@ dev.sh
 
 ### 📚 Documentation
 For detailed information and usage guidelines, refer to our Documentation.
+To view our full report, please refer [here](https://capable-waterlily-d7e.notion.site/CS3219-G48-23297f62c6a642e68dcaf5cfe376cb01).
 
 ### 🤝 Contributing
 We welcome contributions! If you'd like to enhance LeetPal or fix any issues, don't hesitate to reach out.
